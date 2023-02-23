@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <h1>Welcome to SaaS Builder 1</h1>
-      <a href="https://www.google.com/">
+      <a href="https://auth.saasbuilder1.com">
         <button style={{ backgroundColor: 'gray' }}>Sign up now</button>
       </a>
     </div>
